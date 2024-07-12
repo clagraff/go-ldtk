@@ -1,0 +1,15 @@
+# https://taskfile.dev
+
+version: '3'
+
+vars:
+  GREETING: Hello, World!
+
+tasks:
+  quicktype:
+    cmds:
+      - curl https://ldtk.io/files/quicktype/LdtkJson.go > quicktype.go
+  default:
+    cmds:
+      - echo "{{.GREETING}}"
+    silent: true

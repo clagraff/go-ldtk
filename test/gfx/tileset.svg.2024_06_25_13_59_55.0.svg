@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="tileset.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="px"
+     showgrid="true"
+     units="px"
+     guidetolerance="10"
+     inkscape:zoom="4.1524867"
+     inkscape:cx="362.0722"
+     inkscape:cy="-17.941057"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="363"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     gridtolerance="10">
+    <inkscape:grid
+       type="xygrid"
+       id="grid824"
+       empspacing="16" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#b3b3b3;stroke:#ffffff;stroke-width:0;stroke-linecap:round;paint-order:stroke fill markers"
+       id="rect853"
+       width="16"
+       height="16"
+       x="64"
+       y="32" />
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;line-height:1;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono'"
+       x="0.86934578"
+       y="12.637038"
+       id="text3181"><tspan
+         sodipodi:role="line"
+         id="tspan3179"
+         x="0.86934578"
+         y="12.637038">!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;line-height:1;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono'"
+       x="17.420172"
+       y="14.551618"
+       id="text5275"><tspan
+         sodipodi:role="line"
+         id="tspan5273"
+         x="17.420172"
+         y="14.551618">@</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;line-height:1;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono'"
+       x="34.90181"
+       y="13.898347"
+       id="text5609"><tspan
+         sodipodi:role="line"
+         id="tspan5607"
+         x="34.90181"
+         y="13.898347">#</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;line-height:1;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono'"
+       x="48.975254"
+       y="14.1844"
+       id="text6357"><tspan
+         sodipodi:role="line"
+         id="tspan6355"
+         x="48.975254"
+         y="14.1844">$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;line-height:1;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono'"
+       x="65.28952"
+       y="14.159655"
+       id="text7527"><tspan
+         sodipodi:role="line"
+         id="tspan7525"
+         x="65.28952"
+         y="14.159655">%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;line-height:1;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono'"
+       x="80.58329"
+       y="18.576363"
+       id="text9335"><tspan
+         sodipodi:role="line"
+         id="tspan9333"
+         x="80.58329"
+         y="18.576363">^</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;line-height:1;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono'"
+       x="97.138374"
+       y="16.457685"
+       id="text10065"><tspan
+         sodipodi:role="line"
+         id="tspan10063"
+         x="97.138374"
+         y="16.457685">&amp;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;line-height:1;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono'"
+       x="112.95051"
+       y="16.837671"
+       id="text11295"><tspan
+         sodipodi:role="line"
+         id="tspan11293"
+         x="112.95051"
+         y="16.837671">*</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;line-height:1;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono'"
+       x="253.6011"
+       y="13.792438"
+       id="text12157"><tspan
+         sodipodi:role="line"
+         id="tspan12155"
+         x="253.6011"
+         y="13.792438">(</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;line-height:1;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono'"
+       x="271.69077"
+       y="13.80095"
+       id="text13085"><tspan
+         sodipodi:role="line"
+         id="tspan13083"
+         x="271.69077"
+         y="13.80095">)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;line-height:1;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono'"
+       x="126.89251"
+       y="13.88637"
+       id="text13881"><tspan
+         sodipodi:role="line"
+         id="tspan13879"
+         x="126.89251"
+         y="13.88637">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;line-height:1;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono'"
+       x="144.29645"
+       y="5.3560319"
+       id="text14853"><tspan
+         sodipodi:role="line"
+         id="tspan14851"
+         x="144.29645"
+         y="5.3560319">_</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;line-height:1;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono'"
+       x="158.71661"
+       y="15.666039"
+       id="text15715"><tspan
+         sodipodi:role="line"
+         id="tspan15713"
+         x="158.71661"
+         y="15.666039">=</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;line-height:1;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono'"
+       x="171.61842"
+       y="13.931603"
+       id="text16631"><tspan
+         sodipodi:role="line"
+         id="tspan16629"
+         x="171.61842"
+         y="13.931603">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;line-height:1;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono'"
+       x="188.59952"
+       y="13.861625"
+       id="text21003"><tspan
+         sodipodi:role="line"
+         id="tspan21001"
+         x="188.59952"
+         y="13.861625">~</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;line-height:1;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono'"
+       x="203.74214"
+       y="21.702761"
+       id="text21589"><tspan
+         sodipodi:role="line"
+         id="tspan21587"
+         x="203.74214"
+         y="21.702761">`</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;line-height:1;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono'"
+       x="220.10907"
+       y="10.596063"
+       id="text7061"><tspan
+         sodipodi:role="line"
+         id="tspan7059"
+         x="220.10907"
+         y="10.596063">[</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;line-height:1;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono'"
+       x="236.96643"
+       y="11.559337"
+       id="text8165"><tspan
+         sodipodi:role="line"
+         id="tspan8163"
+         x="236.96643"
+         y="11.559337">]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;line-height:1;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono'"
+       x="289.70593"
+       y="12.821438"
+       id="text15037"><tspan
+         sodipodi:role="line"
+         id="tspan15035"
+         x="289.70593"
+         y="12.821438">{</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;line-height:1;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono'"
+       x="305.35922"
+       y="14.449173"
+       id="text16295"><tspan
+         sodipodi:role="line"
+         id="tspan16293"
+         x="305.35922"
+         y="14.449173">}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;line-height:1;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono'"
+       x="360.26605"
+       y="-70.560127"
+       id="text17651"><tspan
+         sodipodi:role="line"
+         id="tspan17649"
+         x="360.26605"
+         y="-70.560127">|</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;line-height:1;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono'"
+       x="390.3685"
+       y="-48"
+       id="text18293"><tspan
+         sodipodi:role="line"
+         id="tspan18291"
+         x="390.3685"
+         y="-48">\</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;line-height:1;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono'"
+       x="323.28448"
+       y="11.270612"
+       id="text19815"><tspan
+         sodipodi:role="line"
+         id="tspan19813"
+         x="323.28448"
+         y="11.270612">;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;line-height:1;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono'"
+       x="337.46384"
+       y="11.800158"
+       id="text20655"><tspan
+         sodipodi:role="line"
+         id="tspan20653"
+         x="337.46384"
+         y="11.800158">:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;line-height:1;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono'"
+       x="354.96805"
+       y="14.449175"
+       id="text21011"><tspan
+         sodipodi:role="line"
+         id="tspan21009"
+         x="354.96805"
+         y="14.449175">'</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;line-height:1;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono'"
+       x="370.13968"
+       y="17.339006"
+       id="text21939"><tspan
+         sodipodi:role="line"
+         id="tspan21937"
+         x="370.13968"
+         y="17.339006">&quot;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;line-height:1;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono'"
+       x="387.36139"
+       y="5.0572119"
+       id="text22951"><tspan
+         sodipodi:role="line"
+         id="tspan22949"
+         x="387.36139"
+         y="5.0572119">,</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;line-height:1;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono'"
+       x="402.16864"
+       y="9.391964"
+       id="text24163"><tspan
+         sodipodi:role="line"
+         id="tspan24161"
+         x="402.16864"
+         y="9.391964">.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;line-height:1;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono'"
+       x="584.95068"
+       y="-80"
+       id="text27097"><tspan
+         sodipodi:role="line"
+         id="tspan27095"
+         x="584.95068"
+         y="-80">&lt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;line-height:1;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono'"
+       x="612.40411"
+       y="-64"
+       id="text28421"><tspan
+         sodipodi:role="line"
+         id="tspan28419"
+         x="612.40411"
+         y="-64">&gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;line-height:1;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono'"
+       x="652.13934"
+       y="-88.139954"
+       id="text29645"><tspan
+         sodipodi:role="line"
+         id="tspan29643"
+         x="652.13934"
+         y="-88.139954">/</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;line-height:1;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono'"
+       x="690.42969"
+       y="-64"
+       id="text30199"><tspan
+         sodipodi:role="line"
+         id="tspan30197"
+         x="690.42969"
+         y="-64">?</tspan></text>
+  </g>
+</svg>
